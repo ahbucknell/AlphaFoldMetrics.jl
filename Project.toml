@@ -3,6 +3,10 @@ uuid = "54c37ef9-0018-4182-9b31-868c9ec89025"
 authors = ["Angus H. Bucknell"]
 version = "1.0.0-DEV"
 
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+
 [compat]
 julia = "1.6.7"
 
